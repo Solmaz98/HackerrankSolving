@@ -1,2 +1,5 @@
-package Introduction;public interface DivisionInterface {
+package Introduction;
+
+public interface DivisionInterface {
+    int divisionSum(int myNum);
 }

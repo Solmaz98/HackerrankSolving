@@ -7,9 +7,9 @@ import java.util.Date;
 import java.util.Locale;
 
 public class FindWeekDayFromString {
-    public static void main(String[] args) {
-        System.out.println(findDay(8 ,5 ,2015));
-    }
+//    public static void main(String[] args) {
+//        System.out.println(findDay(8 ,5 ,2015));
+//    }
 
 
     public static String findDay(int month, int day, int year) {
